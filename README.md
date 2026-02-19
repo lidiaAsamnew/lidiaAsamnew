@@ -17,10 +17,9 @@
 ---
 
 ## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lidia-asamnew-955875232/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lidia.yirbe@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lidia-asamnew-955875232/)  
+![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:lidia.yirbe@gmail.com)  
+![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
 
 ---
 
@@ -50,7 +49,7 @@
 
 ## 📊 GitHub Stats  
 
-![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiaAsamnew&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lidiaAsamnew&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 ---
 
