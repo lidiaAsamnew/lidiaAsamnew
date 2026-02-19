@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lidiaAsamnew&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=lidiaAsamnew&theme=dark&hide_border=true)
 
 ---
 
